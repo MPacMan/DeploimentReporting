@@ -1,0 +1,41 @@
+
+~~~~~~~~~~~~~    Les Hash   ~~~~~~~~~~~~~
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\lenovo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 33:F8:82:FB:8D:B1:C4:AE:44:9B:AB:76:F9:85:4E:FD
+SHA1: 84:73:E0:10:87:06:8D:AF:59:A4:0C:42:72:8A:A1:7D:AC:1D:74:EC
+SHA-256: A8:95:48:98:5D:F8:FC:6E:6F:B5:6C:25:65:22:30:11:62:FB:08:D3:9C:C3:56:32:D0:69:AD:E4:AC:39:D4:F3
+Valid until: dimanche 20 novembre 2050
+----------
+Variant: release
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\lenovo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 33:F8:82:FB:8D:B1:C4:AE:44:9B:AB:76:F9:85:4E:FD
+SHA1: 84:73:E0:10:87:06:8D:AF:59:A4:0C:42:72:8A:A1:7D:AC:1D:74:EC
+SHA-256: A8:95:48:98:5D:F8:FC:6E:6F:B5:6C:25:65:22:30:11:62:FB:08:D3:9C:C3:56:32:D0:69:AD:E4:AC:39:D4:F3
+Valid until: dimanche 20 novembre 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\lenovo\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 33:F8:82:FB:8D:B1:C4:AE:44:9B:AB:76:F9:85:4E:FD
+SHA1: 84:73:E0:10:87:06:8D:AF:59:A4:0C:42:72:8A:A1:7D:AC:1D:74:EC
+SHA-256: A8:95:48:98:5D:F8:FC:6E:6F:B5:6C:25:65:22:30:11:62:FB:08:D3:9C:C3:56:32:D0:69:AD:E4:AC:39:D4:F3
+Valid until: dimanche 20 novembre 2050
+----------
+Variant: releaseUnitTest
+Config: none
+----------
+
+BUILD SUCCESSFUL in 1s
+1 actionable task: 1 executed
+10:29:48: Task execution finished 'signingReport'.
